@@ -8,5 +8,5 @@ num3 = 30 # ergou write
 
 b = 30
 
-
+c = 100
 
