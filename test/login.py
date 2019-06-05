@@ -5,4 +5,4 @@ num 10 # ergou write
 a = 100
 num2 = 20 # manager write
 num3 = 30 # ergou write
-
+b = 12
